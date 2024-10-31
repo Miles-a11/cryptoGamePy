@@ -1,3 +1,3 @@
 """
-This is the initialization file for the src folder.
+This is the initialization file for the tests folder.
 """
